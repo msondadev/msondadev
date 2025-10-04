@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Hi, I'm Martin
 
-<!--
-**msondadev/msondadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm currently studying **Software Development**  
+💻 Learning multiple technologies:  
+- Full Stack Web Development (HTML, CSS, JavaScript, PHP, SQL)  
+- Python (general programming & problem solving)  
+- Java (OOP, backend)  
+- Android Development with Kotlin  
 
-Here are some ideas to get you started:
+🌱 I’m still exploring different areas, without a defined specialty yet.  
+🚀 Currently working on a **community club website** as part of my studies.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 How to reach me: [LinkedIn](www.linkedin.com/in/martinsonda) 
